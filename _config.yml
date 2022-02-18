@@ -1,0 +1,14 @@
+title: MeruData Documentation
+email: info@merudata.com
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+baseurl: "md_blog"
+
+# Custom headers
+webrick:
+  headers:
+    Content-Security-Policy:  script-src 'self'; connect-src 'self'; img-src 'self';  
+    My-Other-Header: My-Other-Value
