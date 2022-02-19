@@ -7,9 +7,7 @@
 
 # User Guides
 
-The Meru Data User Guide is intended for the end user to help them understand and navigate the Data Governance Tool. This guide covers all the basics, from logging in to the application to managing and resolving complex workflows. 
-
-The guide is divided into sections with step-by-step instructions for each feature to educate the users and solve frequently experienced issues.  
+The Meru Data User Guide is intended for the end user to help them understand and navigate the Data 
 
 
 1. [MFA](MFA.md)
