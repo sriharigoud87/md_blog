@@ -1,8 +1,4 @@
----
-layout: help
-title: help
-permalink : /help
----
+
 <p align="Right">
   <img width="100" height="100" src="Media/Images/Logos/Merudata_Logo1.png">
 </p>
