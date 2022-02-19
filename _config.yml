@@ -1,6 +1,6 @@
 title: MeruData Documentation
 email: info@merudata.com
-theme: minima
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
