@@ -2,7 +2,7 @@
   <img width="85" height="85" src="../../Media/Images/Logos/Merudata_Logo1.png">
 </p>
 
-[Back](../../Help.md)
+[Back](../README.md)
 
 
 # User Guides
