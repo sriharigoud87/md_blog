@@ -4,8 +4,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-baseurl: "https://sriharigoud87.github.io/md_blog/"
-url: "/md_blog/"
+baseurl: "/md_blog"
+url: "https://sriharigoud87.github.io/md_blog/"
 
 
 
