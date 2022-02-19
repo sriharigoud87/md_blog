@@ -5,7 +5,7 @@ plugins:
   - jekyll-feed
 
 
-baseurl: "md_blog"
+
 
 # Custom headers
 webrick:
