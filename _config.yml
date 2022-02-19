@@ -5,18 +5,15 @@ plugins:
   - jekyll-feed
 
 
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - Help.md
-  - User_Guides.md
-  - Password_Reset_User.md
-  - Processing_a_DSAR_User_Guide.md
- 
- 
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 # Custom headers
 webrick:
